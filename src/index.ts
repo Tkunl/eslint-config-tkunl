@@ -1,0 +1,1 @@
+export { genEslintCfg } from "./factory";

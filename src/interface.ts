@@ -1,5 +1,5 @@
-import type { Linter } from 'eslint'
+import type { Linter } from "eslint";
 
-export type LinterRules = Linter.RulesRecord
+export type LinterRules = Linter.RulesRecord;
 
-export type FlatESLintConfig = Linter.Config
+export type FlatESLintConfig = Linter.Config;

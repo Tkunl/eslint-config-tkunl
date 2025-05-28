@@ -1,0 +1,3 @@
+{
+  "extends": "https://raw.githubusercontent.com/Tkunl/eslint-config-tkunl/refs/heads/main/dprint.base.json"
+}
