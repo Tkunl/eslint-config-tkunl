@@ -7,8 +7,8 @@
   "types": "dist/index.d.ts",
   "author": "Tkunl",
   "license": "MIT",
-  "repository": "",
-  "homepage": "",
+  "repository": "https://github.com/Tkunl/eslint-config-tkunl",
+  "homepage": "https://github.com/Tkunl",
   "files": [
     "dist",
     "README.md"
